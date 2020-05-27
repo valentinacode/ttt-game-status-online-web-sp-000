@@ -57,5 +57,5 @@ def over?(board)
 end 
 
 def winner(board)
-  board.all? {|index| index == "X" || index == "O"}
+ 
 end
